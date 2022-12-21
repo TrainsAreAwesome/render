@@ -1,5 +1,5 @@
 {
-  "name": "converter",
+  "name": "render",
   "type": "module",
   "version": "0.0.1",
   "description": "simple 2d blocky 16 colour renderer in the terminal using chalk",

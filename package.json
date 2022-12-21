@@ -1,0 +1,15 @@
+{
+  "name": "converter",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "simple 2d blocky 16 colour renderer in the terminal using chalk",
+  "main": "render.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TrainsAreAwesome",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}

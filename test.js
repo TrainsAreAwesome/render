@@ -1,2 +1,2 @@
-import { render } from "./render.js"
-render("e")
+import { render } from "./tAPI/render.js"
+render("ger")

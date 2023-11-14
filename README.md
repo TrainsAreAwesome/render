@@ -20,4 +20,4 @@ you can try this out for yourself by importing renderText from textBox.js.
 then type renderText() param 1 is the text you want to render (only lowercase a and b will work now, but they will render as upercase)
 param 2 is the text colour, param the is the font (just put "normal" in this), and param 4 is the background colour
 
-###ok hope you enjoy
+### ok hope you enjoy

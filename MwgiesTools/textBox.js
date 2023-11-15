@@ -65,4 +65,4 @@ let renderText = (text, textColour, font, bgColour) => {
 }
 
 
-renderText("aa", "e", normal, "r")
+renderText("abcde", "e", normal, "r")
